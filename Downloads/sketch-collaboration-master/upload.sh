@@ -3,7 +3,7 @@
 # Pull the latest changes from the repo
 git pull
 
-files="/Users/fernandodomingodeguzman/Documents/magnetTest" # add a new file like this: "file1 file2 file3"
+files="FirstProject" # add a new file like this: "file1 file2 file3"
 for f in $files
 do
   # Copy .sketch to .zip
